@@ -1,2 +1,24 @@
-# VueJS
-This a blog application using Vue 2 to create the front-end of the application. Google Fire base is used as the back-end and this a Node Based Project. This is a one pacge Website. Fuly working Blog website.
+# my-project
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# lint all *.js and *.vue files
+npm run lint
+
+# run unit tests
+npm test
+```
+
+For more information see the [docs for vueify](https://github.com/vuejs/vueify).
